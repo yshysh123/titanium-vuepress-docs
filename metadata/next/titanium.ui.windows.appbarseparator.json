@@ -1,0 +1,1 @@
+{"name":"Titanium.UI.Windows.AppBarSeparator","summary":"<p>Vertical bar to divide controls in a Windows application bar</p>\n","deprecated":null,"events":[],"methods":[],"extends":"Titanium.Module","properties":[],"platforms":[{"pretty_name":"Windows","since":"4.1.0","name":"windowsphone"}],"filename":null,"type":"module","subtype":null,"constants":[]}

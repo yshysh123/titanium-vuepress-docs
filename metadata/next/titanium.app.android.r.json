@@ -1,0 +1,1 @@
+{"name":"Titanium.App.Android.R","summary":"<p>The Titanium binding of the native Android <code>R</code> class, giving access to application resources.</p>\n","deprecated":null,"events":[],"methods":[],"extends":"Titanium.Proxy","properties":[],"platforms":[{"pretty_name":"Android","since":"1.5","name":"android"}],"filename":null,"type":"object","subtype":"proxy","constants":[]}
